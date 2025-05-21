@@ -1,4 +1,4 @@
-# Weather Report App ☀️🌧️  
+Weather Report App ☀️🌧️  
 A simple and responsive weather application that displays current weather conditions for any city.   Built using HTML, CSS, JavaScript, and OpenWeatherMap API to fetch real-time weather data.
 This is a simple and user-friendly weather reporting application that displays real-time weather data for any city in the world.  
 Users can search for a city and instantly view its current temperature, humidity, wind speed, and weather condition icons.  
